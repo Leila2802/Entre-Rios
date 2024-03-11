@@ -92,6 +92,9 @@ iframe {
     margin: auto ;
     padding: 25px;
 
+
+
+
 }
 
 /* Formulario */
@@ -256,7 +259,7 @@ textarea {
 
 
 .destinos h3 {
-    color: #1c9c3a;
+    color: #6ae176;
     text-transform: uppercase;
     font-size: 3rem;
 }
@@ -309,7 +312,7 @@ textarea {
 
 
 .tarjeta button {
-    background-color: #7ab730;
+    background-color: #67e277;
     color: #07a61f;
     border: 2px;
     padding: 10px 20px;
@@ -342,7 +345,7 @@ textarea {
 .footer
 .redesSociales {
     background-color: #244a2d;
-    color: #199f2f;
+    color: #3baa69;
     padding: 20px;
     margin: 10px;
     font-size:22px;
@@ -443,4 +446,6 @@ textarea {
         }
     }
 }
+
+
 
